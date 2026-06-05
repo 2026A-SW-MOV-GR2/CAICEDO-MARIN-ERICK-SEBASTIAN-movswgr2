@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/nav_rest">
+
+    <!-- Fragment REST (destino inicial) -->
+    <fragment
+        android:id="@+id/nav_rest"
+        android:name="com.example.redyseguridad.ui.rest.RestFragment"
+        android:label="@string/tab_rest"
+        tools:layout="@layout/fragment_rest" />
+
+    <!-- Fragment Storage -->
+    <fragment
+        android:id="@+id/nav_storage"
+        android:name="com.example.redyseguridad.ui.storage.StorageFragment"
+        android:label="@string/tab_storage"
+        tools:layout="@layout/fragment_storage" />
+
+</navigation>
+

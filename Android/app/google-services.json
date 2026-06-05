@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "726372166245",
+    "project_id": "a-movswgr2-cmes",
+    "storage_bucket": "a-movswgr2-cmes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726372166245:android:bc6cb200f6cc1c9046348c",
+        "android_client_info": {
+          "package_name": "com.company.Android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWY386mygbhhRxQvsgbMmYm6HY7UQ1DiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726372166245:android:addad72d6f5a845f46348c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWY386mygbhhRxQvsgbMmYm6HY7UQ1DiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

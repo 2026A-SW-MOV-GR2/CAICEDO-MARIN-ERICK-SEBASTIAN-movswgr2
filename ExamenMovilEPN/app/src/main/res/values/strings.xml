@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Catalog</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="edit_movie">Edit Movie</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="pick_image">Pick Image from Gallery</string>
+    <string name="movie_image">Movie Image</string>
+    <string name="title">Title</string>
+    <string name="year">Year</string>
+    <string name="genre">Genre</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_confirmation">Delete this movie?</string>
+    <string name="delete">Delete</string>
+    <string name="no_movies">No movies found. Tap + to add one.</string>
+</resources>
