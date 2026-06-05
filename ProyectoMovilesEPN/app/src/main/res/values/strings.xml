@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">RedySeguridad</string>
+
+    <!-- REST Fragment -->
+    <string name="tab_rest">Red REST</string>
+    <string name="hint_post_id">ID del Post</string>
+    <string name="btn_fetch">Consultar</string>
+    <string name="hint_title">Título</string>
+    <string name="hint_body">Cuerpo del Post</string>
+    <string name="btn_update">Actualizar</string>
+    <string name="loading">Cargando...</string>
+    <string name="post_updated">✓ Post actualizado correctamente</string>
+    <string name="error_loading">Error al cargar: </string>
+    <string name="error_invalid_id">Por favor ingresa un ID válido</string>
+
+    <!-- Storage Fragment -->
+    <string name="tab_storage">Almacenamiento</string>
+    <string name="hint_key">Clave</string>
+    <string name="hint_value">Valor</string>
+    <string name="btn_save">Guardar Secreto</string>
+    <string name="btn_retrieve">Recuperar Secreto</string>
+    <string name="rb_shared_prefs">SharedPreferences</string>
+    <string name="rb_data_store">Jetpack DataStore</string>
+    <string name="rb_encrypted">EncryptedSharedPreferences</string>
+    <string name="saved_successfully">✓ Guardado correctamente</string>
+    <string name="secret_not_found">Secreto no encontrado</string>
+    <string name="result_label">Resultado:</string>
+    <string name="error_empty_key">Por favor ingresa una clave</string>
+    <string name="error_empty_value">Por favor ingresa un valor</string>
+
+    <!-- Network Errors -->
+    <string name="error_bad_response">Error en la respuesta del servidor</string>
+    <string name="error_io_exception">Error de conexión</string>
+    <string name="error_invalid_json">Error al procesar la respuesta JSON</string>
+</resources>
